@@ -1,5 +1,7 @@
 # tomcat-jndi-example
 
+This repository shows how to configure a DataSource with JNDI in a Grails 3 app deployed in tomcat.
+
 Define resource in _/apache-tomcat-8.5.2.3/conf/context.xml_
 
 https://github.com/grails-samples/tomcat-jndi-example/blob/master/apache-tomcat-8.5.2.3/conf/context.xml#L31
